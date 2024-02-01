@@ -1,0 +1,17 @@
+    [+] Create NPM project 
+
+    [+] Create Index, Css, Js files
+
+    [+] Install dependancies. express( handel server side code), nodemon(dev dep.)(server file edit k bat jo sever side hai node js ka restart nhi krna porega)
+
+    [+] Create a express server (server.js)
+
+    [+] do frontend part
+
+    [+] Install socket.io, Setup socket.io in server.js and client client.js
+
+    [+] Client send message logic in client.js
+
+    [+] Recieve message on server and broadcast to all clients
+
+    [+] Recieve message on client and display it. scrollToBottom etc...
